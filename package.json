@@ -1,6 +1,7 @@
 {
   "name": "twitie",
   "version": "0.1.0",
+  "homepage": "https://amir-valizadeh.github.io",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -13,6 +14,7 @@
     "clean": "^4.0.2",
     "emoji-picker-react": "^3.2.3",
     "firebase": "^7.19.1",
+    "gh-pages": "^3.2.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-flip-move": "^3.0.4",
@@ -27,7 +29,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
