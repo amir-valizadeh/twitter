@@ -1,7 +1,7 @@
 {
   "name": "twitie",
   "version": "0.1.0",
-  "homepage": "https://amir-valizadeh.github.io/",
+  "homepage": "https://amir-valizadeh.github.io/twitter/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
