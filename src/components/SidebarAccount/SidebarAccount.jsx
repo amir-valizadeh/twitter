@@ -22,7 +22,7 @@ const SidebarAccount = () => {
     const signout = () => {
         localStorage.clear()
         // window.location.push('/')
-        history.push('/')
+        history.push('/twitter')
         window.location.reload()
     }
 
