@@ -1,15 +1,15 @@
 {
-  "main.css": "/twitter/static/css/main.96c90744.chunk.css",
-  "main.js": "/twitter/static/js/main.371a96e0.chunk.js",
-  "main.js.map": "/twitter/static/js/main.371a96e0.chunk.js.map",
+  "main.css": "/twitter/static/css/main.37ff81f2.chunk.css",
+  "main.js": "/twitter/static/js/main.56b63d9f.chunk.js",
+  "main.js.map": "/twitter/static/js/main.56b63d9f.chunk.js.map",
   "runtime~main.js": "/twitter/static/js/runtime~main.99fe10d7.js",
   "runtime~main.js.map": "/twitter/static/js/runtime~main.99fe10d7.js.map",
   "static/css/2.0e2e9d9f.chunk.css": "/twitter/static/css/2.0e2e9d9f.chunk.css",
   "static/js/2.95bde589.chunk.js": "/twitter/static/js/2.95bde589.chunk.js",
   "static/js/2.95bde589.chunk.js.map": "/twitter/static/js/2.95bde589.chunk.js.map",
   "index.html": "/twitter/index.html",
-  "precache-manifest.a815ab3fbd1cc8bcae0353dc14f26dc3.js": "/twitter/precache-manifest.a815ab3fbd1cc8bcae0353dc14f26dc3.js",
+  "precache-manifest.2f37130d29d607b3e7202248f4b90bb7.js": "/twitter/precache-manifest.2f37130d29d607b3e7202248f4b90bb7.js",
   "service-worker.js": "/twitter/service-worker.js",
   "static/css/2.0e2e9d9f.chunk.css.map": "/twitter/static/css/2.0e2e9d9f.chunk.css.map",
-  "static/css/main.96c90744.chunk.css.map": "/twitter/static/css/main.96c90744.chunk.css.map"
+  "static/css/main.37ff81f2.chunk.css.map": "/twitter/static/css/main.37ff81f2.chunk.css.map"
 }
